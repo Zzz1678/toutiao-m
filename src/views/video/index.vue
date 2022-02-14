@@ -5,7 +5,19 @@
 </template>
 
 <script>
-export default {}
+export default {
+  name: 'VodeoIndex',
+  components: {},
+  props: {},
+  data () {
+    return {}
+  },
+  computed: {},
+  watch: {},
+  created () {},
+  mounted () {},
+  methods: {}
+}
 </script>
 
 <style>
